@@ -12,3 +12,12 @@ Cada archivo aborda una parte clave del uso de GitHub:
 2. Creación de repositorios
 3. Ramas y Pull Requests
 4. Issues y Projects (Kanban)
+5. GitHub Gist
+6. Flujo de colaboración
+7. Automatización
+8. Consejos avanzados
+9. Conclusiones
+10. Reflexiones personales (Gist)
+
+    Marcleo
+    Vctor
